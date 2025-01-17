@@ -1,0 +1,45 @@
+body{background-color: pink;}
+.clac{
+    border: 2px solid pink;
+    background-color: #fff;
+    width: 350px; margin: 80px auto ; text-align: center;
+    border-radius: 20px;
+}
+.clac h1{
+    font-size: 1.7rem; padding: 20px 0; margin-top: 20px;
+    color: salmon;
+}
+.clac .birth_day{color: salmon; padding-bottom: 20px; font-size: 0.8rem;}
+.clac ul{display: flex; justify-content: center}
+.clac ul li{
+    margin: 0 10px;
+    color: salmon;
+}
+.clac ul li input{
+    text-align: center; color: salmon;
+    width: 50px; height: 25px;
+    border: 1.5px solid salmon;
+    border-radius: 4px;
+    font-size: 0.8rem;
+}
+.clac ul li #year{}
+.clac ul li #month{}
+.clac ul li #day{}
+.clac #btn{
+    color: #fff;
+    margin-top: 20px;
+    background-color: salmon;
+    padding: 10px 94px;
+    border-radius: 10px;
+}
+.clac .flower_mean{color: salmon; padding: 20px 0; font-size: 0.8rem;}
+.clac .result{
+    color: salmon;
+    width: 300px; height: 50px;
+    border: 1.5px solid salmon;
+    border-radius: 10px;
+    font-size: 0.7rem;
+    margin: 0 auto;
+    align-content: center;
+    margin-bottom: 40px;
+    }
